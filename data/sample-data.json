@@ -1,0 +1,45 @@
+[
+  {
+    "name": "example bar chart",
+    "data": {
+      "spec": {
+        "config": {
+          "gridColor": "black",
+          "gridOpacity": 0.08,
+          "height": 400,
+          "width": 600
+        },
+        "data": {
+          "formatType": "json",
+          "values": [
+            {
+              "x": 1,
+              "y": 4
+            },
+            {
+              "x": 2,
+              "y": 5
+            },
+            {
+              "x": 3,
+              "y": 6
+            }
+          ]
+        },
+        "encoding": {
+          "x": {
+            "bin": false,
+            "name": "x",
+            "type": "Q"
+          },
+          "y": {
+            "bin": false,
+            "name": "y",
+            "type": "Q"
+          }
+        },
+        "marktype": "point"
+      }
+    }
+  }
+]
