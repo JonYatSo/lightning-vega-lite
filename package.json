@@ -23,6 +23,6 @@
     "through": "^2.3.8"
   },
   "lightning": {
-    "name": "lightning-vega-lite"
+    "name": "vega-lite"
   }
 }
