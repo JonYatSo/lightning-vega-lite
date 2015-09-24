@@ -24,8 +24,5 @@
   },
   "lightning": {
     "name": "lightning-vega-lite"
-  },
-  "optionalDependencies": {
-    "canvas": "^1.2.9"
   }
 }
