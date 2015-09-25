@@ -7,7 +7,7 @@ var vl = require('vega-lite');
 /*
  * Extend the base visualization object
  */
-var Visualization = LightningVega.extend({
+var Visualization = LightningVisualization.extend({
 
     init: function() {
         this.render();
