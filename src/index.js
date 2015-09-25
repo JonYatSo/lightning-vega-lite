@@ -1,6 +1,6 @@
 'use strict';
 
-var LightningVega = require('lightning-vega');
+var LightningVisualization = require('lightning-visualization');
 var vega = require('./deps/vega');
 var vl = require('vega-lite');
 
